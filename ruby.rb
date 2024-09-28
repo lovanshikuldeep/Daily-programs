@@ -1,3 +1,7 @@
+=begin
+  This is only for proctice ruby concept and will update time to time
+=end
+
 class Employee
   @@all_employee =[]
 
@@ -43,3 +47,4 @@ end
 
 example = Example.new
 example.test
+
